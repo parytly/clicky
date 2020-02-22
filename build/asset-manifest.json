@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/clicky/static/css/main.4f08ed61.chunk.css",
+    "main.js": "/clicky/static/js/main.14557e26.chunk.js",
+    "main.js.map": "/clicky/static/js/main.14557e26.chunk.js.map",
+    "runtime-main.js": "/clicky/static/js/runtime-main.74279dd7.js",
+    "runtime-main.js.map": "/clicky/static/js/runtime-main.74279dd7.js.map",
+    "static/css/2.67123b20.chunk.css": "/clicky/static/css/2.67123b20.chunk.css",
+    "static/js/2.bdfb95d3.chunk.js": "/clicky/static/js/2.bdfb95d3.chunk.js",
+    "static/js/2.bdfb95d3.chunk.js.map": "/clicky/static/js/2.bdfb95d3.chunk.js.map",
+    "index.html": "/clicky/index.html",
+    "precache-manifest.3b3732a48a31fb22b22a0c09a26bab23.js": "/clicky/precache-manifest.3b3732a48a31fb22b22a0c09a26bab23.js",
+    "service-worker.js": "/clicky/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/clicky/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.4f08ed61.chunk.css.map": "/clicky/static/css/main.4f08ed61.chunk.css.map",
+    "static/js/2.bdfb95d3.chunk.js.LICENSE.txt": "/clicky/static/js/2.bdfb95d3.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/clicky/static/media/southpark_background.66c9cc10.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74279dd7.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.bdfb95d3.chunk.js",
+    "static/css/main.4f08ed61.chunk.css",
+    "static/js/main.14557e26.chunk.js"
+  ]
+}
