@@ -1,0 +1,77 @@
+[
+    {   
+        "id": 1,
+        "name": "The Coon",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/f/fd/The-coon.png/revision/latest?cb=20171107042514"
+    },
+    {
+        "id": 2,
+        "name": "The Kyle",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/9/95/Kyle-broflovski.png/revision/latest?cb=20190411033301"
+    },
+    {
+        "id": 3,
+        "name": "The Tweek",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/9/9d/Tweek_pic.png/revision/latest?cb=20160402115548"
+    },
+    {
+        "id": 4,
+        "name": "The Craig",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/c/c2/Craig-tucker.png/revision/latest?cb=20160402121203"
+    },
+    {
+        "id": 5,
+        "name": "Professor Chaos",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/b/b8/Professor-chaos.png/revision/latest?cb=20180409101847"
+    },
+    {
+        "id": 6,
+        "name": "Kenny",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/6/6f/KennyMcCormick.png/revision/latest?cb=20160409020502"
+    },
+    {
+        "id": 7,
+        "name": "Stan",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/c/c6/Stan-marsh-0.png/revision/latest?cb=20170721155858"
+    },
+    {
+        "id": 8,
+        "name": "Cartman",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/c/c4/Eric-cartman.png/revision/latest?cb=20180718082504"
+    },
+    {
+        "id": 9,
+        "name": "Heidi",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/b/b8/HeidiTurnerHat.png/revision/latest?cb=20171128215241"
+    },
+    {
+        "id": 10,
+        "name": "President Garrison",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/f/f4/President_Garrison.png/revision/latest?cb=20180210050625"
+    },
+    {
+        "id": 11,
+        "name": "Elon Musk",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/5/55/Elon-musk.png/revision/latest?cb=20180309123828"
+    },
+    {
+        "id": 12,
+        "name": "High Towelie",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/f/f0/Towelie_%281%29.png/revision/latest?cb=20140802150917"
+    },
+    {
+        "id": 13,
+        "name": "Princess Kenny",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/7/79/Princess-kenny.png/revision/latest?cb=20170527091900"
+    },
+    {
+        "id": 14,
+        "name": "Awesomo",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/6/6d/Awesomo-0.png/revision/latest?cb=20170601014435"
+    },
+    {
+        "id": 15,
+        "name": "Kanye West",
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/f/f3/Kanye-west.png/revision/latest?cb=20161217111445"
+    }
+]

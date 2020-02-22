@@ -1,0 +1,14 @@
+.jumbotron {
+    background: url("southpark_background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.title {
+    background-color: lightsteelblue;
+    opacity: 0.90;
+}
+.lead {
+    font-weight: bold;
+}
